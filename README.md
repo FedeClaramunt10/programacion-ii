@@ -1,6 +1,6 @@
-# Programación II
+﻿# Programación II
 
-Trabajos de la materia Programación II (2° cuatrimestre) de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: programación orientada a objetos, funciones y trabajo integrador.
+Trabajos de la materia Programación II (2° cuatrimestre) de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: programación orientada a objetos, funciones y trabajo integrador.
 
 ## Ejercicios
 
